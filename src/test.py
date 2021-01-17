@@ -8,3 +8,10 @@ print('i know but why')
 
 print('after this, is it better?')
 
+print('now to pull request")
+
+
+
+print('new one to the master')
+
+# first tag is created 
